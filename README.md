@@ -27,6 +27,8 @@ Listening on: -
 ```
 
 http://localhost:8080/metrics
+
 http://localhost:8080/health
+
 http://localhost:8080/shownodes
 
