@@ -7,6 +7,14 @@ The advantages of this approach are: -
 - Uses less resources
 - Smaller attack surface
 
+## Clone repo
+Pull down the repo,  and change directory
+
+``` bash
+git clone https://github.com/mjbower/go-prom-example.git
+cd go-prom-example
+```
+
 ## Build 
 Build the container to your local Docker registry 
 
