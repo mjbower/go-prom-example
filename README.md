@@ -40,3 +40,10 @@ http://localhost:8080/health
 
 http://localhost:8080/shownodes
 
+## Testing
+Use Apache benchmark to send a high volume of requests
+
+``` bash
+ab -n 10000 -c 200 "localhost:8080/shownodes"
+```
+
