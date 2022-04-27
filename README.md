@@ -25,7 +25,8 @@ docker run -p 8080:8080 goex1
 ```bash
 Listening on: -
 ```
-        http://localhost:8080/metrics
-        http://localhost:8080/health
-        http://localhost:8080/shownodes
+
+http://localhost:8080/metrics
+http://localhost:8080/health
+http://localhost:8080/shownodes
 
